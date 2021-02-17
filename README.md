@@ -10,7 +10,7 @@ This repository shows example code for the same Core ML model when converted fro
 
 See requirement.txt for all required packages
 
-## Unified Conversion API MobileNet
+## Example of Unified Conversion API - MobileNet
 
 Example of converting pre-trained MobileNet v2 from TensorFlow and PyTorch.
 
